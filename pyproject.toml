@@ -58,7 +58,11 @@ line_length = 120
 src_paths = ["doc", "src", "tests"]
 
 [tool.coverage.run]
-source = ["ansys.aedt"]
+source = ["ansys.toolkits.antenna"]
+omit = [
+    # Omit UI testing
+    "src/ansys/aedt/toolkits/antenna/ui/*",
+]
 
 [tool.coverage.report]
 show_missing = true
