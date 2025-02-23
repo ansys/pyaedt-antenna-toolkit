@@ -1,0 +1,71 @@
+﻿HPlane
+======
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.horn
+
+.. autoclass:: HPlane
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      HPlane.create_3dcomponent
+      
+      
+      HPlane.create_lattice_pair
+      
+      
+      HPlane.duplicate_along_line
+      
+      
+      HPlane.init_model
+      
+      
+      HPlane.model_disco
+      
+      
+      HPlane.model_hfss
+      
+      
+      HPlane.set_variables_in_hfss
+      
+      
+      HPlane.setup_disco
+      
+      
+      HPlane.setup_hfss
+      
+      
+      HPlane.synthesis
+      
+      
+      HPlane.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      HPlane.antenna_type
+      HPlane.coordinate_system
+      HPlane.frequency
+      HPlane.frequency_unit
+      HPlane.length_unit
+      HPlane.material
+      HPlane.material_properties
+      HPlane.name
+      HPlane.origin
+      HPlane.outer_boundary
+   
+   

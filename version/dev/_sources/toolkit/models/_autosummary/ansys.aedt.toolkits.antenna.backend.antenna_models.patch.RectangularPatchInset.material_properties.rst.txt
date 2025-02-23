@@ -1,0 +1,6 @@
+material\_properties
+====================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.patch
+
+.. autoproperty:: RectangularPatchInset.material_properties

@@ -1,0 +1,6 @@
+serialize\_obj\_base64
+======================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: ToolkitBackend.serialize_obj_base64

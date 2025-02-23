@@ -1,0 +1,70 @@
+﻿RectangularPatchProbe
+=====================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.patch
+
+.. autoclass:: RectangularPatchProbe
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      RectangularPatchProbe.create_3dcomponent
+      
+      
+      RectangularPatchProbe.create_lattice_pair
+      
+      
+      RectangularPatchProbe.duplicate_along_line
+      
+      
+      RectangularPatchProbe.init_model
+      
+      
+      RectangularPatchProbe.model_disco
+      
+      
+      RectangularPatchProbe.model_hfss
+      
+      
+      RectangularPatchProbe.set_variables_in_hfss
+      
+      
+      RectangularPatchProbe.setup_disco
+      
+      
+      RectangularPatchProbe.setup_hfss
+      
+      
+      RectangularPatchProbe.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      RectangularPatchProbe.antenna_name
+      RectangularPatchProbe.antenna_type
+      RectangularPatchProbe.coordinate_system
+      RectangularPatchProbe.frequency
+      RectangularPatchProbe.frequency_unit
+      RectangularPatchProbe.huygens_box
+      RectangularPatchProbe.length_unit
+      RectangularPatchProbe.material
+      RectangularPatchProbe.material_properties
+      RectangularPatchProbe.origin
+      RectangularPatchProbe.outer_boundary
+      RectangularPatchProbe.substrate_height
+   
+   

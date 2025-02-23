@@ -1,0 +1,6 @@
+duplicate\_along\_line
+======================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. automethod:: QuadRidged.duplicate_along_line

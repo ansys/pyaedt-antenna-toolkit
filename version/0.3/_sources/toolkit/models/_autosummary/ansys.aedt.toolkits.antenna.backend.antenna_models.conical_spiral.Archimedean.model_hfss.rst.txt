@@ -1,0 +1,6 @@
+model\_hfss
+===========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.conical_spiral
+
+.. automethod:: Archimedean.model_hfss

@@ -1,0 +1,61 @@
+﻿ToolkitGeneric
+==============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.common.api_generic
+
+.. autoclass:: ToolkitGeneric
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      ToolkitGeneric.aedt_connected
+      
+      
+      ToolkitGeneric.aedt_sessions
+      
+      
+      ToolkitGeneric.connect_aedt
+      
+      
+      ToolkitGeneric.connect_design
+      
+      
+      ToolkitGeneric.get_design_names
+      
+      
+      ToolkitGeneric.get_properties
+      
+      
+      ToolkitGeneric.get_thread_status
+      
+      
+      ToolkitGeneric.installed_aedt_version
+      
+      
+      ToolkitGeneric.launch_aedt
+      
+      
+      ToolkitGeneric.open_project
+      
+      
+      ToolkitGeneric.release_aedt
+      
+      
+      ToolkitGeneric.save_project
+      
+      
+      ToolkitGeneric.set_properties
+      
+   
+   
+
+   
+   
+   

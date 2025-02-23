@@ -1,0 +1,6 @@
+outer\_boundary
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.patch
+
+.. autoproperty:: RectangularPatchInset.outer_boundary

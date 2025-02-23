@@ -1,0 +1,6 @@
+export\_aedt\_model
+===================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: ToolkitBackend.export_aedt_model

@@ -1,0 +1,36 @@
+﻿StandardWaveguide
+=================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.common
+
+.. autoclass:: StandardWaveguide
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      StandardWaveguide.find_waveguide
+      
+      
+      StandardWaveguide.get_waveguide_dimensions
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      StandardWaveguide.waveguide_list
+      StandardWaveguide.wg
+   
+   

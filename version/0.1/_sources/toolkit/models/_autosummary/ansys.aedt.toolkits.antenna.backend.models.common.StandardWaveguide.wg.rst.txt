@@ -1,0 +1,6 @@
+wg
+==
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.common
+
+.. autoattribute:: StandardWaveguide.wg

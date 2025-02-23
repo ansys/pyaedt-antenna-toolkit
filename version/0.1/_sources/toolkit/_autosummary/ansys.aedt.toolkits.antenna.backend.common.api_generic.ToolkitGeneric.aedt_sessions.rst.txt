@@ -1,0 +1,6 @@
+aedt\_sessions
+==============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.common.api_generic
+
+.. automethod:: ToolkitGeneric.aedt_sessions

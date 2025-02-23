@@ -1,0 +1,6 @@
+setup\_disco
+============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.conical_spiral
+
+.. automethod:: Archimedean.setup_disco

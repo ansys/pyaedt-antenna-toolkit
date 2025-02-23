@@ -1,0 +1,6 @@
+create\_3dcomponent
+===================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.helix
+
+.. automethod:: AxialMode.create_3dcomponent

@@ -1,0 +1,6 @@
+huygens\_box
+============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.helix
+
+.. autoproperty:: AxialMode.huygens_box

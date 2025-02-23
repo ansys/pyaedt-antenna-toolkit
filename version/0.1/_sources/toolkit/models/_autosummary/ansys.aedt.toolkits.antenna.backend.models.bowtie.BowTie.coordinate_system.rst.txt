@@ -1,0 +1,6 @@
+coordinate\_system
+==================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.bowtie
+
+.. autoproperty:: BowTie.coordinate_system

@@ -1,0 +1,6 @@
+frequency\_unit
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.bowtie
+
+.. autoproperty:: BowTie.frequency_unit

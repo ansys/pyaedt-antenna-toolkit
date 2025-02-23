@@ -1,0 +1,6 @@
+stripline\_calculator
+=====================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.common
+
+.. automethod:: TransmissionLine.stripline_calculator

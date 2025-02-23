@@ -1,0 +1,6 @@
+wait\_to\_be\_idle
+==================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: ToolkitBackend.wait_to_be_idle

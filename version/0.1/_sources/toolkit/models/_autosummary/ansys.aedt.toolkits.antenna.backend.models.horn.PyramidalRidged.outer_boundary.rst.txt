@@ -1,0 +1,6 @@
+outer\_boundary
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. autoproperty:: PyramidalRidged.outer_boundary

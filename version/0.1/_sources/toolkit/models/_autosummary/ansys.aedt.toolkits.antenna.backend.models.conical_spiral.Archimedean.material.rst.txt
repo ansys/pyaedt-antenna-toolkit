@@ -1,0 +1,6 @@
+material
+========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.conical_spiral
+
+.. autoproperty:: Archimedean.material

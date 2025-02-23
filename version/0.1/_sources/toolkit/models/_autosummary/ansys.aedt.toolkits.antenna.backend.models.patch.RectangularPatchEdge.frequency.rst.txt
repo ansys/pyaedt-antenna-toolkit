@@ -1,0 +1,6 @@
+frequency
+=========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.patch
+
+.. autoproperty:: RectangularPatchEdge.frequency

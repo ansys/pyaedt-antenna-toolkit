@@ -1,0 +1,6 @@
+init\_model
+===========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.helix
+
+.. automethod:: AxialMode.init_model

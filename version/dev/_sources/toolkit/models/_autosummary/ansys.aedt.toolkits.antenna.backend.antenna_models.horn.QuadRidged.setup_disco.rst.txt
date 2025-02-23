@@ -1,0 +1,6 @@
+setup\_disco
+============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.horn
+
+.. automethod:: QuadRidged.setup_disco

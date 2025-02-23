@@ -1,0 +1,6 @@
+launch\_thread
+==============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: ToolkitBackend.launch_thread

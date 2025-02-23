@@ -1,0 +1,6 @@
+antenna\_name
+=============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.bowtie
+
+.. autoproperty:: BowTieSlot.antenna_name

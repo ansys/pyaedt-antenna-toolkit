@@ -1,0 +1,71 @@
+﻿Conical
+=======
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.horn
+
+.. autoclass:: Conical
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      Conical.create_3dcomponent
+      
+      
+      Conical.create_lattice_pair
+      
+      
+      Conical.duplicate_along_line
+      
+      
+      Conical.init_model
+      
+      
+      Conical.model_disco
+      
+      
+      Conical.model_hfss
+      
+      
+      Conical.set_variables_in_hfss
+      
+      
+      Conical.setup_disco
+      
+      
+      Conical.setup_hfss
+      
+      
+      Conical.synthesis
+      
+      
+      Conical.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      Conical.antenna_type
+      Conical.coordinate_system
+      Conical.frequency
+      Conical.frequency_unit
+      Conical.length_unit
+      Conical.material
+      Conical.material_properties
+      Conical.name
+      Conical.origin
+      Conical.outer_boundary
+   
+   

@@ -1,0 +1,6 @@
+origin
+======
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.patch
+
+.. autoproperty:: RectangularPatchEdge.origin

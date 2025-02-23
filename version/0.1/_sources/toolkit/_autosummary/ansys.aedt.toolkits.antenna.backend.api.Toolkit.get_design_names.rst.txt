@@ -1,0 +1,6 @@
+get\_design\_names
+==================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: Toolkit.get_design_names

@@ -1,0 +1,6 @@
+update\_parameters
+==================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: Toolkit.update_parameters

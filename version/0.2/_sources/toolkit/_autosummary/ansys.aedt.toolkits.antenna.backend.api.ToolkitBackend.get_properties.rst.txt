@@ -1,0 +1,6 @@
+get\_properties
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: ToolkitBackend.get_properties

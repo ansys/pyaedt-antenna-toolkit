@@ -1,0 +1,6 @@
+set\_properties
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.common.api_generic
+
+.. automethod:: ToolkitGeneric.set_properties

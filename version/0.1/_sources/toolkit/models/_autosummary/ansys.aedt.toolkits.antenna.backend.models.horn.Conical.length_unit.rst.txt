@@ -1,0 +1,6 @@
+length\_unit
+============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. autoproperty:: Conical.length_unit

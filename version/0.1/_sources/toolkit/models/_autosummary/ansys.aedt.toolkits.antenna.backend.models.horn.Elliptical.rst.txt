@@ -1,0 +1,69 @@
+﻿Elliptical
+==========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. autoclass:: Elliptical
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      Elliptical.create_3dcomponent
+      
+      
+      Elliptical.create_lattice_pair
+      
+      
+      Elliptical.duplicate_along_line
+      
+      
+      Elliptical.init_model
+      
+      
+      Elliptical.model_disco
+      
+      
+      Elliptical.model_hfss
+      
+      
+      Elliptical.set_variables_in_hfss
+      
+      
+      Elliptical.setup_disco
+      
+      
+      Elliptical.setup_hfss
+      
+      
+      Elliptical.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      Elliptical.antenna_name
+      Elliptical.antenna_type
+      Elliptical.coordinate_system
+      Elliptical.frequency
+      Elliptical.frequency_unit
+      Elliptical.huygens_box
+      Elliptical.length_unit
+      Elliptical.material
+      Elliptical.material_properties
+      Elliptical.origin
+      Elliptical.outer_boundary
+   
+   

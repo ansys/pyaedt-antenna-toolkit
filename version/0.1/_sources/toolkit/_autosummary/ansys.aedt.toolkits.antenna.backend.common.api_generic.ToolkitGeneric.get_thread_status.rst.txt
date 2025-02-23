@@ -1,0 +1,6 @@
+get\_thread\_status
+===================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.common.api_generic
+
+.. automethod:: ToolkitGeneric.get_thread_status

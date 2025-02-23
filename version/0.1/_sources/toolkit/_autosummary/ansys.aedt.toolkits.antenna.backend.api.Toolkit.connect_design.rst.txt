@@ -1,0 +1,6 @@
+connect\_design
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: Toolkit.connect_design

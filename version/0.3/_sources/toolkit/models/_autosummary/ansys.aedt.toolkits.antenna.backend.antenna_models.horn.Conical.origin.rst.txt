@@ -1,0 +1,6 @@
+origin
+======
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.horn
+
+.. autoproperty:: Conical.origin

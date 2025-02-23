@@ -1,0 +1,6 @@
+material\_properties
+====================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. autoproperty:: Conical.material_properties

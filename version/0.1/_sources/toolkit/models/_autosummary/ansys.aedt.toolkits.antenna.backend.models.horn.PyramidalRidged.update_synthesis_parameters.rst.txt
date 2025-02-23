@@ -1,0 +1,6 @@
+update\_synthesis\_parameters
+=============================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. automethod:: PyramidalRidged.update_synthesis_parameters

@@ -1,0 +1,6 @@
+microstrip\_calculator
+======================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.common
+
+.. automethod:: TransmissionLine.microstrip_calculator

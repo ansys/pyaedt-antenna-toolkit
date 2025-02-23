@@ -1,0 +1,70 @@
+﻿BowTie
+======
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.bowtie
+
+.. autoclass:: BowTie
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      BowTie.create_3dcomponent
+      
+      
+      BowTie.create_lattice_pair
+      
+      
+      BowTie.duplicate_along_line
+      
+      
+      BowTie.init_model
+      
+      
+      BowTie.model_disco
+      
+      
+      BowTie.model_hfss
+      
+      
+      BowTie.set_variables_in_hfss
+      
+      
+      BowTie.setup_disco
+      
+      
+      BowTie.setup_hfss
+      
+      
+      BowTie.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      BowTie.antenna_name
+      BowTie.antenna_type
+      BowTie.coordinate_system
+      BowTie.frequency
+      BowTie.frequency_unit
+      BowTie.huygens_box
+      BowTie.length_unit
+      BowTie.material
+      BowTie.material_properties
+      BowTie.origin
+      BowTie.outer_boundary
+      BowTie.substrate_height
+   
+   

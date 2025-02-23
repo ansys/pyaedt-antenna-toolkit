@@ -1,0 +1,6 @@
+export\_farfield
+================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: ToolkitBackend.export_farfield

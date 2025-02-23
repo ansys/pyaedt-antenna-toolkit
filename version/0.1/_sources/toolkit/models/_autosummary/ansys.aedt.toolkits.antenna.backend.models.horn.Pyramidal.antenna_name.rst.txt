@@ -1,0 +1,6 @@
+antenna\_name
+=============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. autoproperty:: Pyramidal.antenna_name

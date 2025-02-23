@@ -1,0 +1,6 @@
+update\_hfss\_parameters
+========================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: ToolkitBackend.update_hfss_parameters

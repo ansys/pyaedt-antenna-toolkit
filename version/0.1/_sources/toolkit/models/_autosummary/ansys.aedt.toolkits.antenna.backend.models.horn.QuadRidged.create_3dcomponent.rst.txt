@@ -1,0 +1,6 @@
+create\_3dcomponent
+===================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. automethod:: QuadRidged.create_3dcomponent

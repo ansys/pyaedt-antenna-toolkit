@@ -1,0 +1,70 @@
+﻿Archimedean
+===========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.conical_spiral
+
+.. autoclass:: Archimedean
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      Archimedean.create_3dcomponent
+      
+      
+      Archimedean.create_lattice_pair
+      
+      
+      Archimedean.duplicate_along_line
+      
+      
+      Archimedean.init_model
+      
+      
+      Archimedean.model_disco
+      
+      
+      Archimedean.model_hfss
+      
+      
+      Archimedean.set_variables_in_hfss
+      
+      
+      Archimedean.setup_disco
+      
+      
+      Archimedean.setup_hfss
+      
+      
+      Archimedean.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      Archimedean.antenna_name
+      Archimedean.antenna_type
+      Archimedean.coordinate_system
+      Archimedean.frequency
+      Archimedean.frequency_unit
+      Archimedean.huygens_box
+      Archimedean.length_unit
+      Archimedean.material
+      Archimedean.origin
+      Archimedean.outer_boundary
+      Archimedean.start_frequency
+      Archimedean.stop_frequency
+   
+   

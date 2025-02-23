@@ -1,0 +1,6 @@
+update\_synthesis\_parameters
+=============================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.bowtie
+
+.. automethod:: BowTieSlot.update_synthesis_parameters

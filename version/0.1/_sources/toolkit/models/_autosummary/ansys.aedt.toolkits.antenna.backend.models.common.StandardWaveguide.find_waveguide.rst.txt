@@ -1,0 +1,6 @@
+find\_waveguide
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.common
+
+.. automethod:: StandardWaveguide.find_waveguide

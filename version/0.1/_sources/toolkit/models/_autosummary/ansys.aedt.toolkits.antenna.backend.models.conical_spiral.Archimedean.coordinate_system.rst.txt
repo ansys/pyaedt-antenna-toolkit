@@ -1,0 +1,6 @@
+coordinate\_system
+==================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.conical_spiral
+
+.. autoproperty:: Archimedean.coordinate_system

@@ -1,0 +1,71 @@
+﻿Pyramidal
+=========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.horn
+
+.. autoclass:: Pyramidal
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      Pyramidal.create_3dcomponent
+      
+      
+      Pyramidal.create_lattice_pair
+      
+      
+      Pyramidal.duplicate_along_line
+      
+      
+      Pyramidal.init_model
+      
+      
+      Pyramidal.model_disco
+      
+      
+      Pyramidal.model_hfss
+      
+      
+      Pyramidal.set_variables_in_hfss
+      
+      
+      Pyramidal.setup_disco
+      
+      
+      Pyramidal.setup_hfss
+      
+      
+      Pyramidal.synthesis
+      
+      
+      Pyramidal.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      Pyramidal.antenna_type
+      Pyramidal.coordinate_system
+      Pyramidal.frequency
+      Pyramidal.frequency_unit
+      Pyramidal.length_unit
+      Pyramidal.material
+      Pyramidal.material_properties
+      Pyramidal.name
+      Pyramidal.origin
+      Pyramidal.outer_boundary
+   
+   

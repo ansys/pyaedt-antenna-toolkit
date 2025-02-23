@@ -1,0 +1,6 @@
+release\_aedt
+=============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.common.api_generic
+
+.. automethod:: ToolkitGeneric.release_aedt

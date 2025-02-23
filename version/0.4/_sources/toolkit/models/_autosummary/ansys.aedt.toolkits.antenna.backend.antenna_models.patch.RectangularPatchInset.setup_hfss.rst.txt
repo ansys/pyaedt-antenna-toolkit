@@ -1,0 +1,6 @@
+setup\_hfss
+===========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.patch
+
+.. automethod:: RectangularPatchInset.setup_hfss

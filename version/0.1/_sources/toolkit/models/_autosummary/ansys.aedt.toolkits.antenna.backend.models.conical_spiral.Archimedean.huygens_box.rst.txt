@@ -1,0 +1,6 @@
+huygens\_box
+============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.conical_spiral
+
+.. autoproperty:: Archimedean.huygens_box

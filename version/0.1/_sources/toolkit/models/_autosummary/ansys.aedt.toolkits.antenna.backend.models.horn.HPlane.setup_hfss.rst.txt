@@ -1,0 +1,6 @@
+setup\_hfss
+===========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. automethod:: HPlane.setup_hfss

@@ -1,0 +1,6 @@
+farfield\_results
+=================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: Toolkit.farfield_results

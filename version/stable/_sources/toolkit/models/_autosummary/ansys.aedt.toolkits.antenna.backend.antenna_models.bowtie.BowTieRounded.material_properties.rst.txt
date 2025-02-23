@@ -1,0 +1,6 @@
+material\_properties
+====================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.bowtie
+
+.. autoproperty:: BowTieRounded.material_properties

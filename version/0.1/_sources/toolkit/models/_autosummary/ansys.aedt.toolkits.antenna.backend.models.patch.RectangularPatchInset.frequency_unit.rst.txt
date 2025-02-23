@@ -1,0 +1,6 @@
+frequency\_unit
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.patch
+
+.. autoproperty:: RectangularPatchInset.frequency_unit

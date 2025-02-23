@@ -1,0 +1,72 @@
+﻿RectangularPatchEdge
+====================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.patch
+
+.. autoclass:: RectangularPatchEdge
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      RectangularPatchEdge.create_3dcomponent
+      
+      
+      RectangularPatchEdge.create_lattice_pair
+      
+      
+      RectangularPatchEdge.duplicate_along_line
+      
+      
+      RectangularPatchEdge.init_model
+      
+      
+      RectangularPatchEdge.model_disco
+      
+      
+      RectangularPatchEdge.model_hfss
+      
+      
+      RectangularPatchEdge.set_variables_in_hfss
+      
+      
+      RectangularPatchEdge.setup_disco
+      
+      
+      RectangularPatchEdge.setup_hfss
+      
+      
+      RectangularPatchEdge.synthesis
+      
+      
+      RectangularPatchEdge.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      RectangularPatchEdge.antenna_type
+      RectangularPatchEdge.coordinate_system
+      RectangularPatchEdge.frequency
+      RectangularPatchEdge.frequency_unit
+      RectangularPatchEdge.length_unit
+      RectangularPatchEdge.material
+      RectangularPatchEdge.material_properties
+      RectangularPatchEdge.name
+      RectangularPatchEdge.origin
+      RectangularPatchEdge.outer_boundary
+      RectangularPatchEdge.substrate_height
+   
+   

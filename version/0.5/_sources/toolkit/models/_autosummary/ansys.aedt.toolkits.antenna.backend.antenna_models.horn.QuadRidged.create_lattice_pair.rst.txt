@@ -1,0 +1,6 @@
+create\_lattice\_pair
+=====================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.horn
+
+.. automethod:: QuadRidged.create_lattice_pair

@@ -1,0 +1,6 @@
+origin
+======
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. autoproperty:: Pyramidal.origin

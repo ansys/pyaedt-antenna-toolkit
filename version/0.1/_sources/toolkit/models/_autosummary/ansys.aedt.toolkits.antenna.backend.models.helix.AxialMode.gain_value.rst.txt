@@ -1,0 +1,6 @@
+gain\_value
+===========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.helix
+
+.. autoproperty:: AxialMode.gain_value

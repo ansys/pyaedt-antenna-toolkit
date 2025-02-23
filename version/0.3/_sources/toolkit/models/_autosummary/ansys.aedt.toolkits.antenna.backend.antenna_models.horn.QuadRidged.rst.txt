@@ -1,0 +1,71 @@
+﻿QuadRidged
+==========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.horn
+
+.. autoclass:: QuadRidged
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      QuadRidged.create_3dcomponent
+      
+      
+      QuadRidged.create_lattice_pair
+      
+      
+      QuadRidged.duplicate_along_line
+      
+      
+      QuadRidged.init_model
+      
+      
+      QuadRidged.model_disco
+      
+      
+      QuadRidged.model_hfss
+      
+      
+      QuadRidged.set_variables_in_hfss
+      
+      
+      QuadRidged.setup_disco
+      
+      
+      QuadRidged.setup_hfss
+      
+      
+      QuadRidged.synthesis
+      
+      
+      QuadRidged.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      QuadRidged.antenna_type
+      QuadRidged.coordinate_system
+      QuadRidged.frequency
+      QuadRidged.frequency_unit
+      QuadRidged.length_unit
+      QuadRidged.material
+      QuadRidged.material_properties
+      QuadRidged.name
+      QuadRidged.origin
+      QuadRidged.outer_boundary
+   
+   

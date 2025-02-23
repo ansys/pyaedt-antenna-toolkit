@@ -1,0 +1,6 @@
+export\_hfss\_model
+===================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: Toolkit.export_hfss_model

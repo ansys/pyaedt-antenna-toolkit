@@ -1,0 +1,6 @@
+aedt\_connected
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.common.api_generic
+
+.. automethod:: ToolkitGeneric.aedt_connected

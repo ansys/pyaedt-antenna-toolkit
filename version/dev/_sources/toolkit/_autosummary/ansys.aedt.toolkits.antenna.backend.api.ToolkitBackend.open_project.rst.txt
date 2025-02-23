@@ -1,0 +1,6 @@
+open\_project
+=============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: ToolkitBackend.open_project

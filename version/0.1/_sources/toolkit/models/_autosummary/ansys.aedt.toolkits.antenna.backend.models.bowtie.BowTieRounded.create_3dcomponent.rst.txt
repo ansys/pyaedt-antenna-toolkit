@@ -1,0 +1,6 @@
+create\_3dcomponent
+===================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.bowtie
+
+.. automethod:: BowTieRounded.create_3dcomponent

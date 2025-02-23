@@ -1,0 +1,6 @@
+installed\_aedt\_version
+========================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: Toolkit.installed_aedt_version

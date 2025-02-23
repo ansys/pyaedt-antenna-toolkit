@@ -1,0 +1,6 @@
+waveguide\_list
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.common
+
+.. autoproperty:: StandardWaveguide.waveguide_list

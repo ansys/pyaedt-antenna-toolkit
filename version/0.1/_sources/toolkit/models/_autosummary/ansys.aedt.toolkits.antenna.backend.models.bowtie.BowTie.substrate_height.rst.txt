@@ -1,0 +1,6 @@
+substrate\_height
+=================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.bowtie
+
+.. autoproperty:: BowTie.substrate_height

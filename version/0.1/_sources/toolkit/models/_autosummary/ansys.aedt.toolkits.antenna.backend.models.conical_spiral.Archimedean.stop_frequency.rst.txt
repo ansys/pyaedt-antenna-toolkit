@@ -1,0 +1,6 @@
+stop\_frequency
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.conical_spiral
+
+.. autoproperty:: Archimedean.stop_frequency

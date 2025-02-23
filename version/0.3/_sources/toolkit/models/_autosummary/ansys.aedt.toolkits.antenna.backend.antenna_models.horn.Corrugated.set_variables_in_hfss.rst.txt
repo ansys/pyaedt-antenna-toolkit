@@ -1,0 +1,6 @@
+set\_variables\_in\_hfss
+========================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.horn
+
+.. automethod:: Corrugated.set_variables_in_hfss

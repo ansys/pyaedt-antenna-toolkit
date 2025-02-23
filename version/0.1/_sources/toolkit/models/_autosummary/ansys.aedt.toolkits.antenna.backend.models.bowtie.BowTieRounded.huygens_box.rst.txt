@@ -1,0 +1,6 @@
+huygens\_box
+============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.bowtie
+
+.. autoproperty:: BowTieRounded.huygens_box

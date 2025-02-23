@@ -1,0 +1,6 @@
+antenna\_type
+=============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.helix
+
+.. autoattribute:: AxialMode.antenna_type

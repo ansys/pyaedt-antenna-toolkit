@@ -1,0 +1,6 @@
+create\_3dcomponent
+===================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.patch
+
+.. automethod:: RectangularPatchInset.create_3dcomponent

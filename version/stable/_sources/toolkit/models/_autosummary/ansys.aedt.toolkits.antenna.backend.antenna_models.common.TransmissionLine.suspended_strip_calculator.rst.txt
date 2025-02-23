@@ -1,0 +1,6 @@
+suspended\_strip\_calculator
+============================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.common
+
+.. automethod:: TransmissionLine.suspended_strip_calculator

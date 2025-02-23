@@ -1,0 +1,6 @@
+init\_model
+===========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.bowtie
+
+.. automethod:: BowTieSlot.init_model

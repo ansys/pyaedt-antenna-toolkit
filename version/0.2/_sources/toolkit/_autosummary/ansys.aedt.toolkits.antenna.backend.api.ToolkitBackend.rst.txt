@@ -1,0 +1,91 @@
+﻿ToolkitBackend
+==============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. autoclass:: ToolkitBackend
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      ToolkitBackend.aedt_sessions
+      
+      
+      ToolkitBackend.analyze
+      
+      
+      ToolkitBackend.connect_aedt
+      
+      
+      ToolkitBackend.connect_design
+      
+      
+      ToolkitBackend.export_aedt_model
+      
+      
+      ToolkitBackend.export_farfield
+      
+      
+      ToolkitBackend.get_antenna
+      
+      
+      ToolkitBackend.get_design_names
+      
+      
+      ToolkitBackend.get_project_name
+      
+      
+      ToolkitBackend.get_properties
+      
+      
+      ToolkitBackend.get_thread_status
+      
+      
+      ToolkitBackend.installed_aedt_version
+      
+      
+      ToolkitBackend.is_aedt_connected
+      
+      
+      ToolkitBackend.launch_aedt
+      
+      
+      ToolkitBackend.launch_thread
+      
+      
+      ToolkitBackend.open_project
+      
+      
+      ToolkitBackend.release_aedt
+      
+      
+      ToolkitBackend.save_project
+      
+      
+      ToolkitBackend.scattering_results
+      
+      
+      ToolkitBackend.serialize_obj_base64
+      
+      
+      ToolkitBackend.set_properties
+      
+      
+      ToolkitBackend.update_hfss_parameters
+      
+      
+      ToolkitBackend.wait_to_be_idle
+      
+   
+   
+
+   
+   
+   

@@ -1,0 +1,6 @@
+setup\_disco
+============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.helix
+
+.. automethod:: AxialMode.setup_disco

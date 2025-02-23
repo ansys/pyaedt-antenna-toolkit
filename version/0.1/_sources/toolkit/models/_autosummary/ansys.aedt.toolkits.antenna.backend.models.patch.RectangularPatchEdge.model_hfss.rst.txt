@@ -1,0 +1,6 @@
+model\_hfss
+===========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.patch
+
+.. automethod:: RectangularPatchEdge.model_hfss

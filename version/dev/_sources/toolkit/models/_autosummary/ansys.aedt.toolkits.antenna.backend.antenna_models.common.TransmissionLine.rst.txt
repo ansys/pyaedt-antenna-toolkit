@@ -1,0 +1,31 @@
+﻿TransmissionLine
+================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.common
+
+.. autoclass:: TransmissionLine
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      TransmissionLine.microstrip_calculator
+      
+      
+      TransmissionLine.stripline_calculator
+      
+      
+      TransmissionLine.suspended_strip_calculator
+      
+   
+   
+
+   
+   
+   

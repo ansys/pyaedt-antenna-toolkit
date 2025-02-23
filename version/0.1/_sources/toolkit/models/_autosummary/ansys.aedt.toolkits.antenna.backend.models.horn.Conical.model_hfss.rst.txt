@@ -1,0 +1,6 @@
+model\_hfss
+===========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. automethod:: Conical.model_hfss

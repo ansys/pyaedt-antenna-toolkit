@@ -1,0 +1,69 @@
+﻿Corrugated
+==========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. autoclass:: Corrugated
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      Corrugated.create_3dcomponent
+      
+      
+      Corrugated.create_lattice_pair
+      
+      
+      Corrugated.duplicate_along_line
+      
+      
+      Corrugated.init_model
+      
+      
+      Corrugated.model_disco
+      
+      
+      Corrugated.model_hfss
+      
+      
+      Corrugated.set_variables_in_hfss
+      
+      
+      Corrugated.setup_disco
+      
+      
+      Corrugated.setup_hfss
+      
+      
+      Corrugated.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      Corrugated.antenna_name
+      Corrugated.antenna_type
+      Corrugated.coordinate_system
+      Corrugated.frequency
+      Corrugated.frequency_unit
+      Corrugated.huygens_box
+      Corrugated.length_unit
+      Corrugated.material
+      Corrugated.material_properties
+      Corrugated.origin
+      Corrugated.outer_boundary
+   
+   

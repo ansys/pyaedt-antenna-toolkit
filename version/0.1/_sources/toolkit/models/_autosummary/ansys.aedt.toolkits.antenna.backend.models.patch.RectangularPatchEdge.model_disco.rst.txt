@@ -1,0 +1,6 @@
+model\_disco
+============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.patch
+
+.. automethod:: RectangularPatchEdge.model_disco

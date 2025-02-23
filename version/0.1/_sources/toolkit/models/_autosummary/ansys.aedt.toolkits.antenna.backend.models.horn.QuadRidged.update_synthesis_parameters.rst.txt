@@ -1,0 +1,6 @@
+update\_synthesis\_parameters
+=============================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. automethod:: QuadRidged.update_synthesis_parameters

@@ -1,0 +1,6 @@
+scattering\_results
+===================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: ToolkitBackend.scattering_results

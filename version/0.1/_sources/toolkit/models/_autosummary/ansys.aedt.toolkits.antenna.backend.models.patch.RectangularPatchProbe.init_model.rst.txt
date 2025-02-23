@@ -1,0 +1,6 @@
+init\_model
+===========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.patch
+
+.. automethod:: RectangularPatchProbe.init_model

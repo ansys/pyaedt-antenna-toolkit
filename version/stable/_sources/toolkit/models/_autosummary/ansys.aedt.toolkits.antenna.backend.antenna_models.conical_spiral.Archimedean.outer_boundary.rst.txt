@@ -1,0 +1,6 @@
+outer\_boundary
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.conical_spiral
+
+.. autoproperty:: Archimedean.outer_boundary

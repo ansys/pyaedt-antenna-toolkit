@@ -1,0 +1,6 @@
+substrate\_height
+=================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.patch
+
+.. autoproperty:: RectangularPatchInset.substrate_height

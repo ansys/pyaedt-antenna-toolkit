@@ -1,0 +1,6 @@
+antenna\_type
+=============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.horn
+
+.. autoattribute:: EPlane.antenna_type

@@ -1,0 +1,6 @@
+model\_hfss
+===========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.horn
+
+.. automethod:: Pyramidal.model_hfss

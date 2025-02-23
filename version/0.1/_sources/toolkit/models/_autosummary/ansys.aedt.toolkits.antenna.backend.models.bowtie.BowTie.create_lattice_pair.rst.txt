@@ -1,0 +1,6 @@
+create\_lattice\_pair
+=====================
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.models.bowtie
+
+.. automethod:: BowTie.create_lattice_pair

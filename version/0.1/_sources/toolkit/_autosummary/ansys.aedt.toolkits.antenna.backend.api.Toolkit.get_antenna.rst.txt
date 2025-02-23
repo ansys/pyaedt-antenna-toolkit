@@ -1,0 +1,6 @@
+get\_antenna
+============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.api
+
+.. automethod:: Toolkit.get_antenna

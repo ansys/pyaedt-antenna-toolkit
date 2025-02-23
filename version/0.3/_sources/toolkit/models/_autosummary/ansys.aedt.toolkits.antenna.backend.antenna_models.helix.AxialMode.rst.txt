@@ -1,0 +1,73 @@
+﻿AxialMode
+=========
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.helix
+
+.. autoclass:: AxialMode
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      AxialMode.create_3dcomponent
+      
+      
+      AxialMode.create_lattice_pair
+      
+      
+      AxialMode.duplicate_along_line
+      
+      
+      AxialMode.init_model
+      
+      
+      AxialMode.model_disco
+      
+      
+      AxialMode.model_hfss
+      
+      
+      AxialMode.set_variables_in_hfss
+      
+      
+      AxialMode.setup_disco
+      
+      
+      AxialMode.setup_hfss
+      
+      
+      AxialMode.synthesis
+      
+      
+      AxialMode.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      AxialMode.antenna_type
+      AxialMode.coordinate_system
+      AxialMode.direction
+      AxialMode.feeder_length
+      AxialMode.frequency
+      AxialMode.frequency_unit
+      AxialMode.gain
+      AxialMode.length_unit
+      AxialMode.material
+      AxialMode.name
+      AxialMode.origin
+      AxialMode.outer_boundary
+   
+   

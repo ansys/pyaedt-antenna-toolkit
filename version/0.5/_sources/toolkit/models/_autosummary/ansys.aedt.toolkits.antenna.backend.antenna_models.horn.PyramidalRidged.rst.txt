@@ -1,0 +1,71 @@
+﻿PyramidalRidged
+===============
+
+.. currentmodule:: ansys.aedt.toolkits.antenna.backend.antenna_models.horn
+
+.. autoclass:: PyramidalRidged
+
+   
+
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      
+      PyramidalRidged.create_3dcomponent
+      
+      
+      PyramidalRidged.create_lattice_pair
+      
+      
+      PyramidalRidged.duplicate_along_line
+      
+      
+      PyramidalRidged.init_model
+      
+      
+      PyramidalRidged.model_disco
+      
+      
+      PyramidalRidged.model_hfss
+      
+      
+      PyramidalRidged.set_variables_in_hfss
+      
+      
+      PyramidalRidged.setup_disco
+      
+      
+      PyramidalRidged.setup_hfss
+      
+      
+      PyramidalRidged.synthesis
+      
+      
+      PyramidalRidged.update_synthesis_parameters
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      PyramidalRidged.antenna_type
+      PyramidalRidged.coordinate_system
+      PyramidalRidged.frequency
+      PyramidalRidged.frequency_unit
+      PyramidalRidged.length_unit
+      PyramidalRidged.material
+      PyramidalRidged.material_properties
+      PyramidalRidged.name
+      PyramidalRidged.origin
+      PyramidalRidged.outer_boundary
+   
+   
